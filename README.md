@@ -15,3 +15,5 @@
 ### Materials and resources
 * [Labs are located here](https://drive.google.com/drive/folders/1JK_D8e9rPVdysKW2-_SmxNN40WG68_QC)
 * [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
+Мое решение для лабораторной работы 3 находится здесь https://github.com/nataliebelousova1989/js-assignments
